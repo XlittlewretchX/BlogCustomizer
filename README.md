@@ -58,3 +58,7 @@ npm start
 ![interface_1](interface_1.png)
 ##### Сайдбар с настройками
 ![interface_2](interface_2.png)
+
+---
+permalink: public/index.html
+---
